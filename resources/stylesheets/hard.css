@@ -1,0 +1,129 @@
+.root{
+    -fx-background-image: url("/images/bg4.jpg");
+    -fx-font-family: "Georgia";
+    -fx-font-weight: bold;
+}
+
+.button{
+    -fx-background-radius: 15;
+    -fx-background-insets: 0;
+    -fx-background-color: linear-gradient(black, dimgray ,red);
+    -fx-font-size: 16;
+    -fx-font-weight: bold;
+    -fx-text-fill: black;
+}
+
+#l1{
+    -fx-font-size: 50;
+    -fx-text-fill: linear-gradient(black, dimgray ,red);
+}
+
+#b1:pressed{
+    -fx-background-color: white;
+    -fx-rotate: 10;
+}
+
+#b1:hover{
+    -fx-background-color: white;
+    -fx-text-fill: black;
+}
+
+#b2:pressed{
+    -fx-background-color: white;
+    -fx-rotate: 10;
+}
+
+#b2:hover{
+    -fx-background-color: white;
+    -fx-text-fill: black;
+}
+
+#b3:pressed{
+    -fx-background-color: white;
+    -fx-rotate: 10;
+}
+
+#b3:hover{
+    -fx-background-color: white;
+    -fx-text-fill: black;
+}
+
+#b4:pressed{
+    -fx-background-color: white;
+    -fx-rotate: 10;
+}
+
+#b4:hover{
+    -fx-background-color: white;
+    -fx-text-fill: black;
+}
+
+#b5:pressed{
+    -fx-background-color: white;
+    -fx-rotate: 10;
+}
+
+#b5:hover{
+    -fx-background-color: white;
+    -fx-text-fill: black;
+}
+
+#b6:pressed{
+    -fx-background-color: white;
+    -fx-rotate: 10;
+}
+
+#b6:hover{
+    -fx-background-color: white;
+    -fx-text-fill: black;
+}
+
+#b7:pressed{
+    -fx-background-color: white;
+    -fx-rotate: 10;
+}
+
+#b7:hover{
+    -fx-background-color: white;
+    -fx-text-fill: black;
+}
+
+#b8:pressed{
+    -fx-background-color: white;
+    -fx-rotate: 10;
+}
+
+#b8:hover{
+    -fx-background-color: white;
+    -fx-text-fill: black;
+}
+
+#b9:pressed{
+    -fx-background-color: white;
+    -fx-rotate: 10;
+}
+
+#b9:hover{
+    -fx-background-color: white;
+    -fx-text-fill: black;
+}
+
+#b10:pressed{
+    -fx-background-color: white;
+    -fx-rotate: 10;
+}
+
+#b10:hover{
+    -fx-background-color: white;
+    -fx-text-fill: black;
+}
+
+#cb:pressed{
+    -fx-background-color: white;
+    -fx-rotate: 10;
+}
+
+#cb:hover{
+    -fx-background-color: white;
+    -fx-text-fill: black;
+}

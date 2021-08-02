@@ -1,0 +1,43 @@
+.root{
+    -fx-background-image: url("/images/bg5.jpg");
+    -fx-font-family: "Georgia";
+    -fx-font-weight: bold;
+}
+
+.button{
+    -fx-background-radius: 15;
+    -fx-background-insets: 0;
+    -fx-background-color: cadetblue;
+    -fx-font-size: 30;
+    -fx-font-weight: bold;
+    -fx-text-fill: black;
+}
+
+#eb{
+    -fx-background-color: red;
+}
+
+#eb:pressed{
+    -fx-background-color: white;
+    -fx-rotate: 10;
+}
+
+#eb:hover{
+    -fx-background-color: white;
+    -fx-text-fill: black;
+}
+
+#lb:pressed{
+    -fx-background-color: white;
+    -fx-rotate: 10;
+}
+
+#lb:hover{
+    -fx-background-color: white;
+    -fx-text-fill: black;
+}
+
+#l2{
+    -fx-font-size: 45;
+    -fx-text-fill: linear-gradient(cadetblue, oldlace);
+}
